@@ -1,4 +1,4 @@
 # picmaker
 
 ##Picture
-<a href="https://nibbler.stuy.edu/webgallery/html/stuygal-intro.html">See Image Here!</a>
+<img src="https://nibbler.stuy.edu/webgallery/galleries/intro/62.png"></img>
