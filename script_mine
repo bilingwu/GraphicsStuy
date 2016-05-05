@@ -1,0 +1,52 @@
+push
+translate
+250 250 0
+xrotate
+-30
+yrotate
+30
+box
+-100 20 75 200 40 150
+push
+translate
+-100 -20 75
+xrotate
+90
+torus
+0 0 10 20
+pop
+push
+translate
+100 -20 -75
+xrotate
+90
+torus
+0 0 10 20
+pop
+push
+translate
+-100 -20 -75
+xrotate
+90
+torus
+0 0 10 20
+pop
+push
+translate
+100 -20 75
+xrotate
+90
+torus
+0 0 10 20
+pop
+#push
+#translate
+#100 20 0
+#zrotate
+#60
+#box
+#0 10 -15 100 20 30
+display
+save
+pic.png
+quit

@@ -1,2 +1,2 @@
-# cstack
-graphicshw 06: cstack
+#cstack
+Graphics Homework 06: cstack
