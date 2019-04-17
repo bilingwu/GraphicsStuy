@@ -1,0 +1,17 @@
+clear
+sphere
+100 250 160
+torus
+100 100 30 250
+ident
+apply
+translate
+150 100 0
+yrotate
+30
+xrotate
+30
+apply
+display
+save
+pic.png
